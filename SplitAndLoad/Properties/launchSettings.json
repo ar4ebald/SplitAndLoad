@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SplitAndLoad": {
+      "commandName": "Project",
+      "commandLineArgs": "download -144963424_444173963,-144963424_444173978 -p C:\\Users\\mister\\Desktop"
+    }
+  }
+}
